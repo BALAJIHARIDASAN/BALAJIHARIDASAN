@@ -21,6 +21,6 @@ An solutions-driven Data science and Machine learning enthusiast with experience
 
  I am perseverant with a never say die attitude. I constantly try to challenge myself to reach new heights and have fresh learning experiences. I always think that there is always something to learn. I enjoy collaborating with others to gain a different perspective to refine strategies.
 
- I enjoy watching and playing cricket, music, and reading Magazines outside of academics. I also have a newfound interest in Artificial Intelligence(AI), Machine Learning(ML), and Computer Visions(CV), Natural Language Processing(NLP). If you ever want to get in touch with me, I am always available via email at balajiharidasan@outlook.com or Balaji.hsrm@gmail.com.
+ I enjoy watching and playing cricket, music, and reading Magazines outside of academics. I also have a newfound interest in Artificial Intelligence(AI), Machine Learning(ML), and Computer Visions(CV), Natural Language Processing(NLP). If you ever want to get in touch with me, I am always available via email at balajiharidasan@gmail.com or Balaji.hsrm@gmail.com.
 
 "Difficulties in your life do not come to destroy you but to help you realize your hidden potential and power. Let difficulties know that you too are difficult." - APJ Abdul Kalam
