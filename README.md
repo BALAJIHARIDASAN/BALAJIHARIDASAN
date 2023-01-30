@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me Balajiharidasan@gmail.com
+- 📫 Know about me on ![](https://www.linkedin.com/in/balaji-hari1994/)
 
 <!---
 BALAJIHARIDASAN/BALAJIHARIDASAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
