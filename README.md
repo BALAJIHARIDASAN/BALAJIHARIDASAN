@@ -1,3 +1,6 @@
+
+<img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+
 - 👋 Hi, I’m @Balaji Haridasan  
 - 👀 I’m interested in Data science and Artificial Intelligence 
 - 🌱 I’m currently learning Data science
@@ -5,7 +8,6 @@
 - 📫 How to reach me Balajiharidasan@gmail.com
 - 📫 Know about me on https://www.linkedin.com/in/balaji-hari1994/
 
-<img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 <!---
 BALAJIHARIDASAN/BALAJIHARIDASAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
