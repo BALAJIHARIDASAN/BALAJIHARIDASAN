@@ -45,6 +45,7 @@ An solutions-driven Data science and Machine learning enthusiast with experience
 
 ### :fire: My Stats :
 
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-BALAJIHARIDASAN
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-balajiharidasan&theme=dark&background=000000)](https://git.io/streak-stats)
