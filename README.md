@@ -60,7 +60,7 @@ An solutions-driven Data science and Machine learning enthusiast with experience
 </p>
 
 
-<h2>**Career path for a Machine Learning Engineer** </h2>
+<h2>Career path for a Machine Learning Engineer</h2>
 
 1. [Maths_for_Data_Science](#Maths_for_Data_Science)
 2. [Pre_Requisites_For_Data_Science](#Pre_Requisites_For_Data_Science)
