@@ -81,6 +81,3 @@ An solutions-driven Data science and Machine learning enthusiast with experience
 10. [Explainable_AI](#Explainable_AI)
 
 
-<h2>GitHub Stats</h2>
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=BALAJIHARIDASAN&show_icons=true&theme=tokyonight&hide_border=true" />
-
