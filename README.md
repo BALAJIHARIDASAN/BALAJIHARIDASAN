@@ -2,7 +2,7 @@
 <img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 - 👋 Hi, I’m @Balaji Haridasan  
-- 👀 Currently working as Data Science Trainee Chubb India Business Limited
+- 👀 Currently working as Data Science Trainee in Chubb Business Service India 
 - 👀 I’m interested in Data science and Artificial Intelligence 
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Data science projects
